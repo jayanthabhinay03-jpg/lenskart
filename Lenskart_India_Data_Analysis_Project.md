@@ -5,8 +5,8 @@
 **Project Title:** Lenskart India Sales and Customer Data Analysis  
 **Subtitle:** Exploratory Data Analysis, Data Quality Assessment, Business Insights and Recommendations
 
-**Prepared By:** ____________________  
-**Organization / Institute:** ____________________  
+**Prepared By:** POTNURU JAYANTH ABHINAY  
+**Organization / Institute:** HANOMINDS LEARNING TECHNOLOGIES.  
 **Date:** 2 October 2026
 
 **Tools Used:** Microsoft Excel, Python, Jupyter Notebook / VS Code / Google Colab  
